@@ -1,2 +1,5 @@
+.env
 .venv/
 .ipynb_checkpoints/
+data/.chroma_db
+__pycache__/
